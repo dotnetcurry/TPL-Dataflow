@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8281d2c0-c815-4ce4-85f9-9cf0c2276e7f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DataFlowPipeline/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="142" column="29" lean-forward="true" selection-start-line="142" selection-start-column="29" selection-end-line="142" selection-end-column="29" />
+              <folding>
+                <marker date="1545667522841" expanded="true" signature="6:113" ph="..." />
+                <marker date="1545667522841" expanded="true" signature="141:7219" ph="{...}" />
+                <marker date="1545667522841" expanded="true" signature="161:7217" ph="{...}" />
+                <marker date="1545667522841" expanded="true" signature="213:317" ph="{...}" />
+                <marker date="1545667522841" expanded="true" signature="549:4224" ph="{...}" />
+                <marker date="1545667522841" expanded="true" signature="575:3516" ph="{...}" />
+                <marker date="1545667522841" expanded="true" signature="1234:1529" ph="{...}" />
+                <marker date="1545667522841" expanded="true" signature="1322:1509" ph="{...}" />
+                <marker date="1545667522841" expanded="true" signature="2147:2355" ph="{...}" />
+                <marker date="1545667522841" expanded="true" signature="2622:3403" ph="{...}" />
+                <marker date="1545667522841" expanded="true" signature="2725:3310" ph="{...}" />
+                <marker date="1545667522841" expanded="true" signature="3072:3288" ph="{...}" />
+                <marker date="1545667522841" expanded="true" signature="3558:4214" ph="{...}" />
+                <marker date="1545667522841" expanded="true" signature="3666:4200" ph="{...}" />
+                <marker date="1545667522841" expanded="true" signature="3831:4002" ph="{...}" />
+                <marker date="1545667522841" expanded="true" signature="4027:4182" ph="{...}" />
+                <marker date="1545667522841" expanded="true" signature="4331:4730" ph="{...}" />
+                <marker date="1545667522841" expanded="true" signature="4495:4720" ph="{...}" />
+                <marker date="1545667522841" expanded="true" signature="4802:5778" ph="{...}" />
+                <marker date="1545667522841" expanded="true" signature="5062:5768" ph="{...}" />
+                <marker date="1545667522841" expanded="true" signature="5859:7211" ph="{...}" />
+                <marker date="1545667522841" expanded="true" signature="5947:6053" ph="/* do a full GC at the start but NOT thereafter ... */" />
+                <marker date="1545667522841" expanded="true" signature="6194:6512" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataFlowPipeline/CompressAndEncryptPipeline.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <folding>
+                <marker date="1545666225886" expanded="true" signature="62:11145" ph="{...}" />
+                <marker date="1545666225886" expanded="true" signature="75:304" ph="..." />
+                <marker date="1545666225886" expanded="true" signature="349:11143" ph="{...}" />
+                <marker date="1545666225886" expanded="true" signature="488:654" ph="{...}" />
+                <marker date="1545666225886" expanded="true" signature="951:6140" ph="{...}" />
+                <marker date="1545666225886" expanded="true" signature="1101:1283" ph="{...}" />
+                <marker date="1545666225886" expanded="true" signature="1410:1535" ph="{...}" />
+                <marker date="1545666225886" expanded="true" signature="1659:2139" ph="{...}" />
+                <marker date="1545666225886" expanded="true" signature="1835:2120" ph="{...}" />
+                <marker date="1545666225886" expanded="true" signature="2277:2822" ph="{...}" />
+                <marker date="1545666225886" expanded="true" signature="2576:2803" ph="{...}" />
+                <marker date="1545666225886" expanded="true" signature="3162:4474" ph="{...}" />
+                <marker date="1545666225886" expanded="true" signature="3437:4378" ph="{...}" />
+                <marker date="1545666225886" expanded="true" signature="3579:3740" ph="/* Persists asynchronously the data; the stream could be replaced ... */" />
+                <marker date="1545666225886" expanded="true" signature="4128:4277" ph="/* the chunk of data that is processed is removed ... */" />
+                <marker date="1545666225886" expanded="true" signature="5198:5869" ph="{...}" />
+                <marker date="1545666225886" expanded="true" signature="5376:5562" ph="{...}" />
+                <marker date="1545666225886" expanded="true" signature="6361:11137" ph="{...}" />
+                <marker date="1545666225886" expanded="true" signature="6511:6693" ph="{...}" />
+                <marker date="1545666225886" expanded="true" signature="6856:7041" ph="{...}" />
+                <marker date="1545666225886" expanded="true" signature="7163:7493" ph="{...}" />
+                <marker date="1545666225886" expanded="true" signature="7351:7474" ph="{...}" />
+                <marker date="1545666225886" expanded="true" signature="7643:7974" ph="{...}" />
+                <marker date="1545666225886" expanded="true" signature="7846:7959" ph="{...}" />
+                <marker date="1545666225886" expanded="true" signature="8279:9037" ph="{...}" />
+                <marker date="1545666225886" expanded="true" signature="8560:8941" ph="{...}" />
+                <marker date="1545666225886" expanded="true" signature="9973:10849" ph="{...}" />
+                <marker date="1545666225886" expanded="true" signature="10453:10616" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataFlowPipeline/Data/TextData.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="854">
+              <caret line="33054" column="59" selection-start-line="33054" selection-start-column="59" selection-end-line="33054" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataFlowPipeline/DataStructures.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+              <folding>
+                <marker date="1545662663707" expanded="true" signature="26:1168" ph="{...}" />
+                <marker date="1545662663707" expanded="true" signature="65:215" ph="{...}" />
+                <marker date="1545662663707" expanded="true" signature="252:507" ph="{...}" />
+                <marker date="1545662663707" expanded="true" signature="540:744" ph="{...}" />
+                <marker date="1545662663707" expanded="true" signature="784:975" ph="{...}" />
+                <marker date="1545662663707" expanded="true" signature="1008:1166" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataFlowPipeline/IOUtils.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <marker date="1545666224626" expanded="true" signature="46:3931" ph="{...}" />
+                <marker date="1545666224626" expanded="true" signature="59:194" ph="..." />
+                <marker date="1545666224626" expanded="true" signature="228:3929" ph="{...}" />
+                <marker date="1545666224626" expanded="true" signature="305:716" ph="{...}" />
+                <marker date="1545666224626" expanded="true" signature="379:706" ph="{...}" />
+                <marker date="1545666224626" expanded="true" signature="806:1287" ph="{...}" />
+                <marker date="1545666224626" expanded="true" signature="880:1277" ph="{...}" />
+                <marker date="1545666224626" expanded="true" signature="1347:1586" ph="{...}" />
+                <marker date="1545666224626" expanded="true" signature="1838:2112" ph="{...}" />
+                <marker date="1545666224626" expanded="true" signature="2514:3003" ph="{...}" />
+                <marker date="1545666224626" expanded="true" signature="2579:2993" ph="{...}" />
+                <marker date="1545666224626" expanded="true" signature="2699:2979" ph="{...}" />
+                <marker date="1545666224626" expanded="true" signature="3081:3527" ph="{...}" />
+                <marker date="1545666224626" expanded="true" signature="3214:3368" ph="{...}" />
+                <marker date="1545666224626" expanded="true" signature="3625:3923" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataFlowPipeline/ChunkBytes.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <marker date="1545662613651" expanded="true" signature="26:373" ph="{...}" />
+                <marker date="1545662613651" expanded="true" signature="56:371" ph="{...}" />
+                <marker date="1545662613651" expanded="true" signature="103:164" ph="{...}" />
+                <marker date="1545662613651" expanded="true" signature="205:287" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CompressAndEncrypt</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/DataFlowPipeline/CompressAndEncryptPipeline.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataFlowPipeline/ChunkBytes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataFlowPipeline/IOUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataFlowPipeline/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataFlowPipeline/DataStructures.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DataFlowPipeline/ChunkBytes.cs" />
+        <option value="$PROJECT_DIR$/DataFlowPipeline/DataStructures.cs" />
+        <option value="$PROJECT_DIR$/DataFlowPipeline/Data/TextData.txt" />
+        <option value="$PROJECT_DIR$/DataFlowPipeline/CompressAndEncryptPipeline.cs" />
+        <option value="$PROJECT_DIR$/DataFlowPipeline/IOUtils.cs" />
+        <option value="$PROJECT_DIR$/DataFlowPipeline/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1615" />
+    <option name="y" value="75" />
+    <option name="width" value="2225" />
+    <option name="height" value="1446" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DataFlowPipeline" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DataFlowPipeline" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DataFlowPipeline" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DataFlowPipeline" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DataFlowPipeline" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Data" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.DataFlowPipeline">
+    <configuration name="DataFlowPipeline" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/DataFlowPipeline/bin/Debug/netcoreapp2.2/DataFlowPipeline.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataFlowPipeline" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/DataFlowPipeline/DataFlowPipeline.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.DataFlowPipeline" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8281d2c0-c815-4ce4-85f9-9cf0c2276e7f" name="Default Changelist" comment="" />
+      <created>1545662040792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545662040792</updated>
+      <workItem from="1545662043020" duration="5434000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5434000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1615" y="75" width="2225" height="1446" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24965644" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" weight="0.3293944" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.3293944" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3293944" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/DataFlowPipeline/CompressAndEncryptPipeline.cs</url>
+          <line>85</line>
+          <properties documentPath="$PROJECT_DIR$/DataFlowPipeline/CompressAndEncryptPipeline.cs" initialLine="106">
+            <startOffsets>
+              <option value="3391" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3437" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DataFlowPipeline/DataStructures.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <marker date="1545662663707" expanded="true" signature="26:1168" ph="{...}" />
+            <marker date="1545662663707" expanded="true" signature="65:215" ph="{...}" />
+            <marker date="1545662663707" expanded="true" signature="252:507" ph="{...}" />
+            <marker date="1545662663707" expanded="true" signature="540:744" ph="{...}" />
+            <marker date="1545662663707" expanded="true" signature="784:975" ph="{...}" />
+            <marker date="1545662663707" expanded="true" signature="1008:1166" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataFlowPipeline/Data/TextData.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="854">
+          <caret line="33054" column="59" selection-start-line="33054" selection-start-column="59" selection-end-line="33054" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataFlowPipeline/ChunkBytes.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <marker date="1545662613651" expanded="true" signature="26:373" ph="{...}" />
+            <marker date="1545662613651" expanded="true" signature="56:371" ph="{...}" />
+            <marker date="1545662613651" expanded="true" signature="103:164" ph="{...}" />
+            <marker date="1545662613651" expanded="true" signature="205:287" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataFlowPipeline/CompressAndEncryptPipeline.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <marker date="1545666225886" expanded="true" signature="62:11145" ph="{...}" />
+            <marker date="1545666225886" expanded="true" signature="75:304" ph="..." />
+            <marker date="1545666225886" expanded="true" signature="349:11143" ph="{...}" />
+            <marker date="1545666225886" expanded="true" signature="488:654" ph="{...}" />
+            <marker date="1545666225886" expanded="true" signature="951:6140" ph="{...}" />
+            <marker date="1545666225886" expanded="true" signature="1101:1283" ph="{...}" />
+            <marker date="1545666225886" expanded="true" signature="1410:1535" ph="{...}" />
+            <marker date="1545666225886" expanded="true" signature="1659:2139" ph="{...}" />
+            <marker date="1545666225886" expanded="true" signature="1835:2120" ph="{...}" />
+            <marker date="1545666225886" expanded="true" signature="2277:2822" ph="{...}" />
+            <marker date="1545666225886" expanded="true" signature="2576:2803" ph="{...}" />
+            <marker date="1545666225886" expanded="true" signature="3162:4474" ph="{...}" />
+            <marker date="1545666225886" expanded="true" signature="3437:4378" ph="{...}" />
+            <marker date="1545666225886" expanded="true" signature="3579:3740" ph="/* Persists asynchronously the data; the stream could be replaced ... */" />
+            <marker date="1545666225886" expanded="true" signature="4128:4277" ph="/* the chunk of data that is processed is removed ... */" />
+            <marker date="1545666225886" expanded="true" signature="5198:5869" ph="{...}" />
+            <marker date="1545666225886" expanded="true" signature="5376:5562" ph="{...}" />
+            <marker date="1545666225886" expanded="true" signature="6361:11137" ph="{...}" />
+            <marker date="1545666225886" expanded="true" signature="6511:6693" ph="{...}" />
+            <marker date="1545666225886" expanded="true" signature="6856:7041" ph="{...}" />
+            <marker date="1545666225886" expanded="true" signature="7163:7493" ph="{...}" />
+            <marker date="1545666225886" expanded="true" signature="7351:7474" ph="{...}" />
+            <marker date="1545666225886" expanded="true" signature="7643:7974" ph="{...}" />
+            <marker date="1545666225886" expanded="true" signature="7846:7959" ph="{...}" />
+            <marker date="1545666225886" expanded="true" signature="8279:9037" ph="{...}" />
+            <marker date="1545666225886" expanded="true" signature="8560:8941" ph="{...}" />
+            <marker date="1545666225886" expanded="true" signature="9973:10849" ph="{...}" />
+            <marker date="1545666225886" expanded="true" signature="10453:10616" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataFlowPipeline/IOUtils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <marker date="1545666224626" expanded="true" signature="46:3931" ph="{...}" />
+            <marker date="1545666224626" expanded="true" signature="59:194" ph="..." />
+            <marker date="1545666224626" expanded="true" signature="228:3929" ph="{...}" />
+            <marker date="1545666224626" expanded="true" signature="305:716" ph="{...}" />
+            <marker date="1545666224626" expanded="true" signature="379:706" ph="{...}" />
+            <marker date="1545666224626" expanded="true" signature="806:1287" ph="{...}" />
+            <marker date="1545666224626" expanded="true" signature="880:1277" ph="{...}" />
+            <marker date="1545666224626" expanded="true" signature="1347:1586" ph="{...}" />
+            <marker date="1545666224626" expanded="true" signature="1838:2112" ph="{...}" />
+            <marker date="1545666224626" expanded="true" signature="2514:3003" ph="{...}" />
+            <marker date="1545666224626" expanded="true" signature="2579:2993" ph="{...}" />
+            <marker date="1545666224626" expanded="true" signature="2699:2979" ph="{...}" />
+            <marker date="1545666224626" expanded="true" signature="3081:3527" ph="{...}" />
+            <marker date="1545666224626" expanded="true" signature="3214:3368" ph="{...}" />
+            <marker date="1545666224626" expanded="true" signature="3625:3923" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataFlowPipeline/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="142" column="29" lean-forward="true" selection-start-line="142" selection-start-column="29" selection-end-line="142" selection-end-column="29" />
+          <folding>
+            <marker date="1545667522841" expanded="true" signature="6:113" ph="..." />
+            <marker date="1545667522841" expanded="true" signature="141:7219" ph="{...}" />
+            <marker date="1545667522841" expanded="true" signature="161:7217" ph="{...}" />
+            <marker date="1545667522841" expanded="true" signature="213:317" ph="{...}" />
+            <marker date="1545667522841" expanded="true" signature="549:4224" ph="{...}" />
+            <marker date="1545667522841" expanded="true" signature="575:3516" ph="{...}" />
+            <marker date="1545667522841" expanded="true" signature="1234:1529" ph="{...}" />
+            <marker date="1545667522841" expanded="true" signature="1322:1509" ph="{...}" />
+            <marker date="1545667522841" expanded="true" signature="2147:2355" ph="{...}" />
+            <marker date="1545667522841" expanded="true" signature="2622:3403" ph="{...}" />
+            <marker date="1545667522841" expanded="true" signature="2725:3310" ph="{...}" />
+            <marker date="1545667522841" expanded="true" signature="3072:3288" ph="{...}" />
+            <marker date="1545667522841" expanded="true" signature="3558:4214" ph="{...}" />
+            <marker date="1545667522841" expanded="true" signature="3666:4200" ph="{...}" />
+            <marker date="1545667522841" expanded="true" signature="3831:4002" ph="{...}" />
+            <marker date="1545667522841" expanded="true" signature="4027:4182" ph="{...}" />
+            <marker date="1545667522841" expanded="true" signature="4331:4730" ph="{...}" />
+            <marker date="1545667522841" expanded="true" signature="4495:4720" ph="{...}" />
+            <marker date="1545667522841" expanded="true" signature="4802:5778" ph="{...}" />
+            <marker date="1545667522841" expanded="true" signature="5062:5768" ph="{...}" />
+            <marker date="1545667522841" expanded="true" signature="5859:7211" ph="{...}" />
+            <marker date="1545667522841" expanded="true" signature="5947:6053" ph="/* do a full GC at the start but NOT thereafter ... */" />
+            <marker date="1545667522841" expanded="true" signature="6194:6512" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

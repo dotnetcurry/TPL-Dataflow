@@ -1,0 +1,12 @@
+/Users/riccardo/RiderProjects/DataFlowPipeline/DataFlowPipeline/bin/Debug/netcoreapp2.2/DataFlowPipeline.deps.json
+/Users/riccardo/RiderProjects/DataFlowPipeline/DataFlowPipeline/bin/Debug/netcoreapp2.2/DataFlowPipeline.runtimeconfig.json
+/Users/riccardo/RiderProjects/DataFlowPipeline/DataFlowPipeline/bin/Debug/netcoreapp2.2/DataFlowPipeline.runtimeconfig.dev.json
+/Users/riccardo/RiderProjects/DataFlowPipeline/DataFlowPipeline/bin/Debug/netcoreapp2.2/DataFlowPipeline.dll
+/Users/riccardo/RiderProjects/DataFlowPipeline/DataFlowPipeline/bin/Debug/netcoreapp2.2/DataFlowPipeline.pdb
+/Users/riccardo/RiderProjects/DataFlowPipeline/DataFlowPipeline/obj/Debug/netcoreapp2.2/DataFlowPipeline.csprojAssemblyReference.cache
+/Users/riccardo/RiderProjects/DataFlowPipeline/DataFlowPipeline/obj/Debug/netcoreapp2.2/DataFlowPipeline.csproj.CoreCompileInputs.cache
+/Users/riccardo/RiderProjects/DataFlowPipeline/DataFlowPipeline/obj/Debug/netcoreapp2.2/DataFlowPipeline.AssemblyInfoInputs.cache
+/Users/riccardo/RiderProjects/DataFlowPipeline/DataFlowPipeline/obj/Debug/netcoreapp2.2/DataFlowPipeline.AssemblyInfo.cs
+/Users/riccardo/RiderProjects/DataFlowPipeline/DataFlowPipeline/obj/Debug/netcoreapp2.2/DataFlowPipeline.dll
+/Users/riccardo/RiderProjects/DataFlowPipeline/DataFlowPipeline/obj/Debug/netcoreapp2.2/DataFlowPipeline.pdb
+/Users/riccardo/RiderProjects/DataFlowPipeline/DataFlowPipeline/bin/Debug/netcoreapp2.2/Data/TextData.txt
